@@ -7,6 +7,11 @@ https://zhuanlan.zhihu.com/p/73469009
 
 https://github.com/allenai/allennlp-as-a-library-example
 
+## 使用方法
+
+```linux
+allennlp train experiments/venue_classifier.json -s results\ --include-package my_library
+```
 
 ## 在此基础上了做了修改，添加自定义特征的embedding向量
 
