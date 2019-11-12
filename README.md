@@ -1,0 +1,2 @@
+# allennlp_AcademicPaperClassifier
+allennlp实现AcademicPaperClassifier，添加自定义特征的embedding向量
